@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Error><Code>InvalidQueryParameterValue</Code><Message>Value for one of the query parameters specified in the request URI is invalid.
+RequestId:c4759e69-301e-0055-3f41-b44c8c000000
+Time:2025-04-23T11:19:11.7988273Z</Message><QueryParameterName>rscd</QueryParameterName><QueryParameterValue>attachment; filename=主人的%20GitHub%20上传专用包.zip</QueryParameterValue><Reason>HTTP query parameter values contain invalid characters</Reason></Error>
